@@ -1,0 +1,4 @@
+﻿  Hungarian_method.cpp
+C:\Users\olegk\source\repos\Hungarian_method\Hungarian_method.cpp(16,17): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\olegk\source\repos\Hungarian_method\Hungarian_method.cpp(17,17): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  Hungarian_method.vcxproj -> C:\Users\olegk\source\repos\Hungarian_method\x64\Debug\Hungarian_method.exe
